@@ -1,15 +1,15 @@
 Boas vindas ao meu perfil 💙💙
 
-Meu nome é Nícolas Papa 
+•Meu nome é Nícolas Papa 
 
-Estou estudando na Alura
+•Estou estudando na Alura
 
-Estou me desenvolvendo na linguagem JavaScript
+•Estou me desenvolvendo na linguagem JavaScript
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+•Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Você pode entrar em contato comigo 📪
+•Você pode entrar em contato comigo 📪:
 
-nicolas.papa@escola.pr.gov.br 
+-nicolas.papa@escola.pr.gov.br 
 
-@nicolas_papa_
+-@nicolas_papa_
